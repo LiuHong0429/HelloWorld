@@ -1,2 +1,2 @@
 # HelloWorld
-the hello_world project
+the hello_world project , learn how to use GitHub
